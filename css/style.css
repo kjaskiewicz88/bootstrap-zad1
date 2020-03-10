@@ -1,0 +1,21 @@
+.content{
+    padding: 100px 0px 0px 0px;
+}
+h2{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.color{
+    background-color: #d3d3d359;
+    color: orange;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    font-size: 60px;
+    padding: 15px;
+    margin: 0;
+}
+p{
+    margin: 5px 0px 20px 0;
+}
